@@ -1,0 +1,7 @@
+Como Executar os Testes:
+1. 
+Adicione o JUnit ao seu projeto: Se estiver usando uma IDE como IntelliJ IDEA ou Eclipse, você pode adicionar o JUnit como uma dependência do projeto.
+2. 
+Crie um arquivo de teste: Crie um arquivo CalculadoraTest.java e copie o código dos testes unitários.
+3. 
+Execute os testes: Use a funcionalidade de execução de testes da sua IDE para rodar os testes unitários.

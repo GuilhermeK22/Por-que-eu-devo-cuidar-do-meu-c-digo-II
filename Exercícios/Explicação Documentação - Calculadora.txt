@@ -1,0 +1,9 @@
+Explicação da Documentação:
+1. 
+Classe Calculadora: A documentação da classe descreve o propósito geral da classe.
+2. 
+Métodos da Classe Calculadora: Cada método tem uma descrição do que faz, os parâmetros que aceita, o valor de retorno e as exceções que pode lançar.
+3. 
+Classe CalculadoraTest: A documentação da classe de teste descreve o propósito dos testes unitários.
+4. 
+Métodos de Teste: Cada método de teste tem uma breve descrição do que está sendo testado.

@@ -1,0 +1,9 @@
+Explicação dos Testes:
+1. 
+Configuração Inicial (@BeforeEach): Antes de cada teste, uma nova instância da Fibonacci é criada.
+2. 
+Testes de Casos Base: Verifica se a função retorna os valores corretos para os casos base da sequência de Fibonacci (0 e 1).
+3. 
+Testes de Casos Gerais: Verifica se a função retorna os valores corretos para outros números na sequência de Fibonacci.
+4. 
+Teste de Entrada Negativa: Verifica se a função lança uma exceção ao receber uma entrada negativa. (Nota: Para que este teste passe, você precisaria adicionar uma verificação de entrada negativa na função fibonacci).

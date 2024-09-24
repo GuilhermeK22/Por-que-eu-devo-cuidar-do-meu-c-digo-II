@@ -1,0 +1,9 @@
+Explicação da Documentação:
+1. 
+Classe Fibonacci: A documentação da classe descreve o propósito geral da classe.
+2. 
+Método fibonacci: A documentação do método inclui uma descrição do que o método faz, os parâmetros que ele aceita, o valor de retorno e as exceções que ele pode lançar.
+3. 
+Classe FibonacciTest: A documentação da classe de teste descreve o propósito dos testes unitários.
+4. 
+Métodos de Teste: Cada método de teste tem uma breve descrição do que está sendo testado.
